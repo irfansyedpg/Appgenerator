@@ -157,7 +157,7 @@ public class MainActivity extends AppCompatActivity {
         Class cc=null;
 
         if (type == 1) {
-            cc = SampleActivity.class;
+           // cc = FasTesting.class;
         } else if (type == 2) {
 
             cc= SampleActivity.class;
