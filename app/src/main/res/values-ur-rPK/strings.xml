@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">App Name</string>
+
+
+
+    <string name="btnSync">Sync</string>
+    <string name="btnUpload">Upload</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+
+
+
+
+
+
+
+
+    <!-- form Strings starts   -->
+
+    <string name="crfh"> CRF A: Out Patient Department Registry </string>
+    <string name="cra01"> Study ID </string>
+    <string name="cra02"> OPD Number </string>
+    <string name="cra03"> Date of Visit/Registration </string>
+    <string name="cra03a"> day </string>
+    <string name="cra03b"> month </string>
+    <string name="cra03c"> year </string>
+    <string name="cra04"> Name </string>
+    <string name="cra05"> Father Name </string>
+    <string name="cra06"> Address </string>
+    <string name="cra06a"> District </string>
+    <string name="cra06b"> Union Council </string>
+    <string name="cra06c"> Village </string>
+    <string name="cra06d"> Address/Hint </string>
+    <string name="cra06e"> Tehsil/Taluka </string>
+    <string name="cra07"> Phone number </string>
+    <string name="cra08"> Age </string>
+    <string name="cra08a"> day </string>
+    <string name="cra08b"> month </string>
+    <string name="cra08c"> year </string>
+    <string name="cra09"> Sex </string>
+    <string name="cra09a"> Male </string>
+    <string name="cra09b"> Female </string>
+    <string name="cra10"> Referred from </string>
+    <string name="cra11"> Diagnosis </string>
+    <string name="cra12"> Disposition </string>
+    <string name="cra12a"> Sent Home </string>
+    <string name="cra12b"> Admitted </string>
+    <string name="cra12c"> Referred </string>
+    <string name="cra12d"> Died </string>
+    <string name="cra12e"> LWBS/LAMA </string>
+
+
+
+    <!-- form Strings ends   -->
+
+
+
+    <!-- Design  -->
+
+    <string name="register">REGISTER</string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Password</string>
+    <string name="signup_login_hint">Already have an account? Sign In</string>
+    <string name="login_signup_hint">Don\'t have an account? Sign Up</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>
